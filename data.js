@@ -1,5 +1,5 @@
 let studentName;
-let studenAge;
+let studentAge;
 let studentGrade;
 let isPresent;
 
@@ -10,6 +10,6 @@ studentGrade = 10
 isPresent = true;
 
 console.log("Student Name:", studentName);
-console.log("Student Age:", studentage);
+console.log("Student Age:", studentAge);
 console.log("Student Grade:", studentGrade)
 console.log("Status:", isPresent);
